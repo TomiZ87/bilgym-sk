@@ -8,3 +8,10 @@ I continued with the translations for the Slovak version of the site and tried t
 
 Finding a suitable hosting for our Joomla website, so we can share it with the teacher. But to be honest, I haven't done much, I scrolled through the internet for hosting and then made documentation for this project. This is the most probable hosting we will use: https://www.awardspace.com/free-hosting/
 -Tom
+
+By the end of February
+I have finished the translation of the website pages into Slovak.
+-Simon
+
+Ok, I continued in finding a new hosting for our Joomla website, so I will proceed to transfer the page there after the maturita. + I looked at the 2 language system - but for only a few minutes.
+-Tom
