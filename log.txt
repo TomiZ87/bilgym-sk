@@ -15,3 +15,7 @@ I have finished the translation of the website pages into Slovak.
 
 Ok, I continued in finding a new hosting for our Joomla website, so I will proceed to transfer the page there after the maturita. + I looked at the 2 language system - but for only a few minutes.
 -Tom
+
+3.2.2022
+I was creating text for the slider on the homepage
+-Šimon
