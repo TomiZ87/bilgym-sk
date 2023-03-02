@@ -20,5 +20,5 @@ Ok, I continued in finding a new hosting for our Joomla website, so I will proce
 I was creating text for the slider on the homepage
 -Šimon
 
-We had a discussion with Simon what we can add to the webiste to even more improve its functions. For now, we decided we would add a plugin which will autotranslate new articles to Slovak or English: https://www.automatic-translation.online/installation; When the webiste will be in both languages, we will try to implement this plugin. If it would not work, then we will create a new one or find another. Otherwise we were discussing a lot about the upcomming plans for website, but have not decided for anything else than it is now.
+We had a discussion with Simon about what we can add to the website, even more, improve its functions. For now, we decided we would add a plugin that will auto-translate new articles to Slovak or English: https://www.automatic-translation.online/installation; When the website is in both languages, we will try to implement this plugin. If it does not work, we will create a new one or find another. Otherwise, we were discussing a lot about the upcoming plans for the website but have not decided on anything else than it is now.
 -Tom
