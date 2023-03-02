@@ -19,3 +19,6 @@ Ok, I continued in finding a new hosting for our Joomla website, so I will proce
 3.2.2022
 I was creating text for the slider on the homepage
 -Šimon
+
+We had a discussion with Simon what we can add to the webiste to even more improve its functions. For now, we decided we would add a plugin which will autotranslate new articles to Slovak or English: https://www.automatic-translation.online/installation; When the webiste will be in both languages, we will try to implement this plugin. If it would not work, then we will create a new one or find another. Otherwise we were discussing a lot about the upcomming plans for website, but have not decided for anything else than it is now.
+-Tom
