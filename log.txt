@@ -16,9 +16,13 @@ I have finished the translation of the website pages into Slovak.
 Ok, I continued in finding a new hosting for our Joomla website, so I will proceed to transfer the page there after the maturita. + I looked at the 2 language system - but for only a few minutes.
 -Tom
 
-3.2.2022
+3.3.2023
 I was creating text for the slider on the homepage
 -Šimon
 
 We had a discussion with Simon about what we can add to the website, even more, improve its functions. For now, we decided we would add a plugin that will auto-translate new articles to Slovak or English: https://www.automatic-translation.online/installation; When the website is in both languages, we will try to implement this plugin. If it does not work, we will create a new one or find another. Otherwise, we were discussing a lot about the upcoming plans for the website but have not decided on anything else than it is now.
+-Tom
+
+9.3.2023
+I studied enough and so I looked right inside the Joomla and tested the bilingual website on my testing website. I just managed to start it but did not actually add the add-on for translation. Just wanted to make sure some functions work. Otherwise, we started to work on the presentation - barely. To be honest, I did not sleep enough, so I was slower and sleepy. I think I worked just about 45-60 minutes today. But I will make up for it by working after maturita.
 -Tom
