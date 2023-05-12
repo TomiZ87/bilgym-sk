@@ -26,3 +26,25 @@ We had a discussion with Simon about what we can add to the website, even more, 
 9.3.2023
 I studied enough and so I looked right inside the Joomla and tested the bilingual website on my testing website. I just managed to start it but did not actually add the add-on for translation. Just wanted to make sure some functions work. Otherwise, we started to work on the presentation - barely. To be honest, I did not sleep enough, so I was slower and sleepy. I think I worked just about 45-60 minutes today. But I will make up for it by working after maturita.
 -Tom
+
+30.3.2023
+During this time I was having a discussion with the school department of IT of possible implementation of this website online and replacing the current school website. It went well. It was more or less a discussion or plan what to do next.
+-Tom
+
+13.4.2023
+We were creating our new presentation about the usage of Joomla, servers, and some other related terminology.
+-Šimon&Tom
+
+4.5.2023
+We managed to take all information from the server and export it. + I was researching some things about the servers and stilled looked if the hosting is good (better to reasearch than be sorry), while Šimon was trying to learn about Joomla on my PC. 
+-Tom
+
+While I had only chance to learn Joomla from videos, Tomáš game me his computer so I can actually have some actual practise. + I helped him to export the website.
+-Šimon (sent via Discort to Tom)
+
+11.5.2023 + Weekend
+I continued to learn about Joomla, from videos again. + I told Tomáš that I will help him with implementation of things this weekend.
+-Šimon (sent via Discort to Tom)
+
+I started the whole migration to the actual website. I hope I will complete it during this weekend because I was in the hospital.
+-Tom
