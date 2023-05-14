@@ -36,7 +36,7 @@ We were creating our new presentation about the usage of Joomla, servers, and so
 -Šimon&Tom
 
 4.5.2023
-We managed to take all information from the server and export it. + I was researching some things about the servers and stilled looked if the hosting is good (better to reasearch than be sorry), while Šimon was trying to learn about Joomla on my PC. 
+We managed to take all information from the server and export it. + I was researching some things about the servers and stilled looked if the hosting is good (better to reasearch than be sorry), while Šimon was trying to learn about Joomla on my PC. For backup we used the Akeeba Backup plugin.
 -Tom
 
 While I had only chance to learn Joomla from videos, Tomáš game me his computer so I can actually have some actual practise. + I helped him to export the website.
@@ -48,3 +48,8 @@ I continued to learn about Joomla, from videos again. + I told Tomáš that I wi
 
 I started the whole migration to the actual website. I hope I will complete it during this weekend because I was in the hospital.
 -Tom
+
+14.5.2023
+Here we go. We managed to upload the webiste and made it live on https://bilgym-sk.azurewebsites.net/index.php; We changed the hosting because it was not that controllable as we thought it would be. We used the Microsoft Azure Portal: Web App and we hosted the Azure Database for MySQL flexible server and Web app. It is getting paid from Student Azure Credits.
+NOTE: If the website is not showing, it is because it is either down (to reduce the usage of resources) or undergoing maintenance/upgrades. Please try again later or contact Tommy via Edupage, GitHub, or other social media. - This will be available until the 12.6.2023.
+-Šimon&Tom 
